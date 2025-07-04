@@ -1,0 +1,16 @@
+{
+    "api": {
+        "base_url": "https://trade-web-gtw.tiger.trade/statistics-gtw/protected/api/v1/statistics/proxy/api/v2",
+        "auth_url": "https://auth-api.tiger.trade/api/v1/login",
+        "refresh_url": "https://auth-api.tiger.trade/api/v1/refresh",
+        "timeout": 30,
+        "max_retries": 3,
+        "retry_delay": 1
+    },
+    "auth": {
+        "username": "your-email@tiger.trade",
+        "password": "your-password-or-api-key",
+        "access_token": "",
+        "refresh_token": ""
+    }
+}
