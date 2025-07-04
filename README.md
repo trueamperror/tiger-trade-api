@@ -49,7 +49,7 @@ python3 exchanges.py
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/YOUR_USERNAME/tiger-trade-api.git
+git clone https://github.com/trueamperror/tiger-trade-api.git
 cd tiger-trade-api
 ```
 
@@ -831,4 +831,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Контакты
 
-Project Link: [https://github.com/YOUR_USERNAME/tiger-trade-api](https://github.com/YOUR_USERNAME/tiger-trade-api)
+Project Link: [https://github.com/trueamperror/tiger-trade-api](https://github.com/trueamperror/tiger-trade-api)
